@@ -4,10 +4,12 @@
 <p>Meu projeto do semestre será colocado aqui<br>
 E contará com muitos detalhes.</p>
 <br>
->####Aqui irão os requisitos.
->
->>Aqui irão as explicações.
->> - Aqui irão as explicações do requisito.
-> *Tudo* irá ser feito com **detalhes**.
+> #### Aqui irão os requisitos.  
+>  
+>>Aqui irão as explicações.  
+>  
+>> - Aqui irão as explicações do requisito.  
+>  
+>  <strong>Tudo<strong> irá ser feito com <strong>detalhes<strong>.  
 <br>
-<h2>**Um ótimo semestre adiante!**</h2>
+<h2><strong>Um ótimo semestre adiante!<strong></h2>
