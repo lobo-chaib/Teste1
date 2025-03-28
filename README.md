@@ -1,68 +1,70 @@
-## PROJETO DO SEMESTRE  
-# Campanha de Marketing Eco-Green
+# 🌊 KonaWai - Loja Virtual de Artigos de Praia 🏖️
 
-Bem-vindo ao repositório da campanha de marketing da **Eco-Green**! Este projeto Scrum promove o lançamento de utensílios de cozinha biodegradáveis feitos de bambu e amido de milho, visando conscientizar o público sobre a redução de plásticos descartáveis e incentivar a adoção de alternativas sustentáveis.
-
-<div style="background-color: #f0f9e8; padding: 15px; border-radius: 10px; border: 2px solid #bae498;">
-  <h2 style="color: #2d8659;">Visão Geral do Projeto</h2>
-  <p>Estamos desenvolvendo uma campanha de marketing digital para redes sociais, direcionada a consumidores conscientes e empresas que buscam práticas ecológicas. Com orçamento limitado, priorizamos estratégias digitais e parcerias com influenciadores de médio porte, respeitando um prazo total de 3 meses.</p>
-  <p><strong>Data de Início</strong>: 26/02/2025 | <strong>Prazo Total</strong>: 3 meses</p>
-</div>
-
-## Equipe
-- **Scrum Master**: Anellise Cunha
-- **Product Owner**: Juliano Awazu
-- **Desenvolvedores**: Adriano Ricardo, Anna Malzone, Claudio Lobo
+Bem-vindo ao repositório da **KonaWai**, uma loja virtual especializada em artigos de praia!  
+Aqui você encontra tudo o que precisa para aproveitar o sol e o mar com conforto e estilo. ☀️🌊  
 
 ---
 
-## Sprints Concluídos
+## 📌 Sobre o Projeto
 
-### Sprint 1 - Conceito Criativo e Materiais Iniciais
-- **Duração**: 3 dias (28/02/2025 - 03/03/2025)
-- **Objetivo**: Desenvolver o conceito criativo e os materiais iniciais da campanha.
-- **Resultados**:
-  - Logo da campanha ✅
-  - Design da página da campanha ✅
-  - Pesquisa de marketing e posts interativos ✅
-  - Pesquisa de regulamentação e legislação ✅
-  - Documentação do Sprint 1 ✅
-
-<div style="background-color: #e6f3fa; padding: 10px; border-radius: 5px; margin-top: 10px;">
-  <strong>Feedback</strong>: [Aguardando retrospectiva para ajustes]
-</div>
-
-### Sprint 2 - Produção de Materiais Multimídia
-- **Duração**: 3 dias (04/03/2025 - 06/03/2025)
-- **Objetivo**: Produzir vídeos e imagens para a campanha nas redes sociais.
-- **Resultados**:
-  - Vídeo horizontal de alta qualidade ✅
-  - Vídeo vertical para redes sociais ✅
-  - Imagens para a campanha ✅
-  - Documentação do Sprint 2 ✅
-
-<div style="background-color: #e6f3fa; padding: 10px; border-radius: 5px; margin-top: 10px;">
-  <strong>Feedback</strong>: [Aguardando retrospectiva para ajustes]
-</div>
+A **KonaWai** é uma loja online desenvolvida para oferecer uma experiência de compra intuitiva e moderna.  
+O projeto faz parte do semestre letivo e tem como objetivo explorar o desenvolvimento web, incluindo frontend e backend.
 
 ---
 
-## Progresso Geral
-<div style="text-align: center; margin: 20px 0;">
-  <strong>Prazo Total do Projeto</strong>: 3 meses<br>
-  <strong>Sprints Concluídos</strong>: 2 de [Nº total a definir]<br>
-  <progress value="6" max="90"></progress> <em>(6 dias de 90)</em>
-</div>
+## 🚀 Tecnologias Utilizadas
 
-## Próximos Passos
-<div style="background-color: #fff3cd; padding: 10px; border-radius: 5px;">
-  - Realizar retrospectivas dos Sprints 1 e 2.<br>
-  - Planejar o Sprint 3 com foco em [definir objetivos com base em feedback].<br>
-  - Continuar respeitando regulamentações ambientais e o orçamento limitado.
-</div>
+Este projeto será desenvolvido com as seguintes tecnologias:
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js com Express  
+- **Banco de Dados:** MySQL Workbench  
+- **Controle de Versão:** Git e GitHub  
 
 ---
 
-<div style="text-align: center; font-size: 0.9em; color: #555;">
-  <em>Repositório atualizado em: 27/03/2025</em>
-</div>
+## 🛍️ Funcionalidades
+
+- **🛒 Carrinho de compras:** Adicione e remova produtos facilmente.  
+- **🔍 Busca avançada:** Encontre rapidamente os produtos desejados.  
+- **💳 Checkout seguro:** Pagamento com diversas formas disponíveis.  
+- **🌍 Responsivo:** Design adaptável para desktop e mobile.  
+
+---
+
+## 📸 Capturas de Tela
+
+Tela inicial da loja virtual. *(ainda não disponível)*  
+
+---
+
+## 🤝 Contribuição
+
+Quer contribuir com melhorias para a KonaWai?  
+Fique à vontade para abrir um pull request ou relatar um problema na aba de issues!
+
+---
+
+## 👩🏻‍💻 Desenvolvedores
+
+- **Andrew Cesar** - *Desenvolvedor Frontend*  
+- **Anellise Cunha** - *Desenvolvedora Frontend*  
+- **Anna Malzone** - *Desenvolvedora Frontend*  
+- **Claudio Lobo** - *Desenvolvedor Frontend*  
+- **Juliano Awazu** - *Desenvolvedor Frontend*  
+- **Ygor Belarmino** - *Desenvolvedor Backend*  
+
+---
+
+## 📧 Contato
+
+Email(indisponível)
+
+### 🐙 GitHub:
+- **Anellise Cunha** - [GitHub](https://github.com/AnneCunha)  
+- **Anna Malzone** - [GitHub](https://github.com/AnnaMalzone)  
+- **Claudio Lobo** - [GitHub](https://github.com/lobo-chaib)  
+- **Juliano Awazu** - [GitHub](https://github.com/awazudev)
+
+
+
